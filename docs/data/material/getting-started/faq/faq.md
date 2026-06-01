@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 <p class="description">Stuck on a particular problem? Check some of these common gotchas first in the FAQ.</p>
-
+eeeeeeee
 If you still can't find what you're looking for, you can refer to our [support page](/material-ui/getting-started/support/).
 
 ## MUI is an awesome organization. How can I support it?
@@ -236,7 +236,7 @@ Instead of writing:
 return (
   <div
     className={`MuiButton-root ${disabled ? 'Mui-disabled' : ''} ${
-      selected ? 'Mui-selected' : ''
+      selected? 'Mui-selected' : ''
     }`}
   />
 );
